@@ -1,5 +1,3 @@
-## Hi, I'm Soumya 👋
-
 ## About Me : 
 I enjoy building intelligent systems at the intersection of machine learning, data engineering, and human-centered interfaces. My projects focus on designing and implementing scalable pipelines and interactive applications that translate complex data and models into accessible tools for scientific exploration and decision-making.<br>
 <br>
